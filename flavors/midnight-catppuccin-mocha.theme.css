@@ -20,7 +20,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Catppuccin';
+	--corner-text: 'Silly ppl on my puter';
 
 	/* thickness of messages divider */
 	--divider-thickness: 3px;
@@ -58,7 +58,7 @@
 	--message-hover: hsla(240, 0%, 0%, 0.1); /* messages when hovered */
 
 	/* amount of spacing and padding */
-	--spacing: 12px;
+	--spacing: 7px;
 
 	/* animations */
 	/* ALL ANIMATIONS CAN BE DISABLED WITH REDUCED MOTION IN DISCORD SETTINGS */
@@ -77,7 +77,7 @@
 
 	/* direct messages moon icon */
 	/* change to block to show, none to hide */
-	--discord-icon: none; /* discord icon */
+	--discord-icon: block; /* discord icon */
 	--moon-icon: none; /* moon icon */
 	--moon-icon-url: none; /* custom icon url */
 	--moon-icon-size: auto;
